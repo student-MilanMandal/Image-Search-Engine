@@ -51,7 +51,7 @@ form button {
   font-size: 18px;
 }
 h1 span {
-  color: #1b44b0;
+  color: #0000ff;
 }
 #show-more-btn {
   background: #ff4500;
@@ -63,6 +63,7 @@ h1 span {
   margin: 15px auto 100px;
   cursor: pointer;
   display: none;
+  font-size: 15px;
 }
 #search-result {
   width: 80%;
